@@ -2,7 +2,7 @@
 include_once('FiguraGeometrica.php');
 
 // Clase Círculo que extiende FiguraGeometrica
-class Circulo extends FiguraGeometrica {
+class NuevoCirculo extends FiguraGeometrica {
     private $radio;
 
     // Constructor que recibe el nombre y el radio del círculo
