@@ -29,5 +29,5 @@ assertEquals($expectedPerimetro, $actualPerimetro, "Prueba del cálculo del per�
 $expectedNombre = "Círculo de prueba";
 $actualNombre = $circulo->getNombre();
 assertEquals($expectedNombre, $actualNombre, "Prueba de obtención del nombre");
-
+//
 ?>

@@ -14,3 +14,4 @@ abstract class FiguraGeometrica {
     abstract public function area(): float;
     abstract public function perimetro(): float;
 }
+//
